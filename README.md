@@ -1,0 +1,1 @@
+# print-the-elements-of-both-the-diagonals-in-a-square-matrix
